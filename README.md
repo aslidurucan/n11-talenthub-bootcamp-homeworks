@@ -4,8 +4,6 @@
 
 Modern bir ödeme sistemi uygulaması. SOLID prensipleri, Annotation, Reflection, AOP, Spring Boot ve React kullanılarak geliştirilmiştir.
 
-## Proje Yapısı
-├── payment-system/         # Saf Java - SOLID + Annotation + Reflection
 
 ├── payment-system-spring/  # Spring Boot - AOP + REST API + PostgreSQL
 
@@ -15,7 +13,6 @@ Modern bir ödeme sistemi uygulaması. SOLID prensipleri, Annotation, Reflection
 
 Bu proje bootcamp sürecinde öğrenilen konular aşama aşama uygulanarak geliştirilmiştir.
 
-- `payment-system/` → 1. ve 2. aşama: Saf Java ile SOLID prensipleri, Custom Annotation ve Reflection uygulandı. Öğrenme sürecinin belgesi olarak repoda tutulmaktadır.
 - `payment-system-spring/` → 3-6. aşama: Spring Boot ile AOP, REST API, PostgreSQL entegrasyonu geliştirildi.
 - `payment-ui/` → React ile ayrı bir frontend projesi olarak geliştirildi.
 
