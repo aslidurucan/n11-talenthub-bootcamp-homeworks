@@ -1,4 +1,3 @@
-<img width="937" height="922" alt="image" src="https://github.com/user-attachments/assets/ae22b1e7-7f12-44a1-b360-3f34ce463273" />
 
 # N11 TalentHub Backend Bootcamp — Ödevler
 
